@@ -5,6 +5,8 @@
 ## Build Setup
 
 ```bash
+Setup .env file based on .example.env
+
 # install dependencies
 $ yarn install
 
